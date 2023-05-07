@@ -1,0 +1,12 @@
+[Details]
+task_name=ankit.req
+export_type=1
+field_count=7
+[FieldMapping]
+mapping1=RQ_REQ_NAME;REQ;A
+mapping2=RQ_TYPE_ID;REQ;B
+mapping3=RQ_REQ_REVIEWED;REQ;F
+mapping4=RQ_REQ_COMMENT;REQ;E
+mapping5=RQ_REQ_PRIORITY;REQ;D
+mapping6=RQ_REQ_AUTHOR;REQ;C
+mapping7=RQ_REQ_PATH_VIRTUAL;REQ;I
